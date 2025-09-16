@@ -1,0 +1,630 @@
+[05:19:25] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-LTS; Microsoft Microsoft-11369942) on Linux 6.8.0-1030-azure (amd64)
+[05:19:25] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-32-main@e792779 (2025-07-16T20:10:15Z) for Minecraft 1.21.7
+[05:19:26] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[05:19:31] [ServerMain/INFO]: [PluginInitializerManager] Initialized 26 plugins
+[05:19:31] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (3):
+ - HuskHomes (4.9.9), SuperEnchants (3.2.0.1), Veinminer (2.5.0)
+[05:19:31] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (23):
+ - AngelChest (13.9.4), AutoTreeChop (1.7.0), ClickMobs (1.2.5), Clumps (5.0), DiscordSRV (1.30.1), FarmAssistReboot (1.4.9.0), GSit (2.4.3), Geyser-Spigot (2.8.3-SNAPSHOT), HuskHomesGUI (2.5.1), InvSeePlusPlus (0.30.7), MediaPlayer (1.0.3), PatPatPlugin (1.2.0+0057eaa), SetHome (2.0.5), SkinsRestorer (15.7.10), StringDupBack (1.0), StringDupersReturn (1.0.1), TAB (5.2.5), Timber (1.7.1), ViaBackwards (5.4.2), ViaRewind (4.0.9), ViaVersion (5.4.2), ViaVersionStatus (4.00), floodgate (2.2.4-SNAPSHOT (b118-40d320a))
+[05:19:38] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[05:19:38] [ServerMain/WARN]: resource-pack-id missing, using default of a176be4f-7fe3-3f0a-a6b5-c15793f442e8
+[05:19:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Blindness' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'HealthSteal' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bleed' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lightning' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Teleport' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Jetpack' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Explosive' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Excavator' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Autosmelt' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Freeze' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Confusion' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Multishoot' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dash' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bloodlust' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Shockwave' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Veinminer' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'XPBoost' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Enlightened' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Enderaura' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Frostbite' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Leap' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Speed' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Magnet' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Growth' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Detonate' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Backstabber' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Piercing' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Deflecting' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bait' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Angler' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Abiding' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Disarm' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Archer' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Farmer' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Decapitation' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dismantle' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Famine' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Spotlight' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Feast' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Updraft' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lavawalker' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Doublestrike' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Timber' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Missile' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Critical' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Inflame' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Nightowl' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Headshot' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Arrowstorm' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Hook' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Gravity' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Adrenaline' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Resilience' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Coward' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Weaken' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Withering' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Heavy' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lightweight' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Blastoff' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Flippers' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Harvester' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'DragonHunter' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Ascend' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'HellHunter' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Cubism' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Vanish' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dodge' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Predator' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Slaughter' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'SkullCrusher' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Ninja' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Thanos' registered successfully.
+[05:19:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Consume' registered successfully.
+[05:19:42] [ServerMain/INFO]: Loaded 1407 recipes
+[05:19:42] [ServerMain/INFO]: Loaded 1520 advancements
+[05:19:42] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[05:19:43] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 1,032.4ms
+[05:19:43] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[05:19:43] [Server thread/INFO]: Loading properties
+[05:19:44] [Server thread/INFO]: This server is running Paper version 1.21.7-32-main@e792779 (2025-07-16T20:10:15Z) (Implementing API version 1.21.7-R0.1-SNAPSHOT)
+[05:19:44] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[05:19:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:19:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:19:44] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[05:19:44] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[05:19:44] [Server thread/INFO]: Default game type: SURVIVAL
+[05:19:44] [Server thread/INFO]: Generating keypair
+[05:19:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:19:45] [Server thread/INFO]: Using epoll channel type
+[05:19:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:19:45] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[05:19:46] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[05:20:01] [Server thread/WARN]: Legacy plugin StringDupBack v1.0 does not specify an api-version.
+[05:20:01] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.2
+[05:20:01] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.2 is now loaded. Registering protocol transformers and injecting...
+[05:20:02] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[05:20:03] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[05:20:03] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[05:20:03] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[05:20:04] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[05:20:04] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.2
+[05:20:04] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.9
+[05:20:04] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[05:20:06] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[05:20:06] [Server thread/INFO]: [floodgate] Took 1,294ms to boot Floodgate
+[05:20:06] [Server thread/INFO]: [HuskHomes] Loading server plugin HuskHomes v4.9.9
+[05:20:06] [Server thread/INFO]: [HuskHomes] Registered 'on_load' hooks
+[05:20:06] [Server thread/INFO]: [HuskHomes] Successfully loaded HuskHomes v4.9.9
+[05:20:06] [Server thread/INFO]: [ViaVersionStatus] Loading server plugin ViaVersionStatus v4.00
+[05:20:06] [Server thread/INFO]: [Timber] Loading server plugin Timber v1.7.1
+[05:20:06] [Server thread/INFO]: [ClickMobs] Loading server plugin ClickMobs v1.2.5
+[05:20:06] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.4
+[05:20:06] [Server thread/INFO]: [MediaPlayer] Loading server plugin MediaPlayer v1.0.3
+[05:20:06] [Server thread/INFO]: [StringDupBack] Loading server plugin StringDupBack v1.0
+[05:20:06] [Server thread/INFO]: [PatPatPlugin] Loading server plugin PatPatPlugin v1.2.0+0057eaa
+[05:20:06] [Server thread/INFO]: [GSit] Loading server plugin GSit v2.4.3
+[05:20:06] [Server thread/INFO]: [StringDupersReturn] Loading server plugin StringDupersReturn v1.0.1
+[05:20:06] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.5.0
+[05:20:06] [Server thread/INFO]: [Veinminer] Detected platform: Paper
+[05:20:07] [Server thread/INFO]: [Clumps] Loading server plugin Clumps v5.0
+[05:20:07] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.5
+[05:20:07] [Server thread/INFO]: [HuskHomesGUI] Loading server plugin HuskHomesGUI v2.5.1
+[05:20:07] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v2.0.5
+[05:20:07] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.30.1
+[05:20:07] [Server thread/INFO]: [SuperEnchants] Loading server plugin SuperEnchants v3.2.0.1
+[05:20:07] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.3-SNAPSHOT
+[05:20:08] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[05:20:08] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[05:20:08] [Server thread/INFO]: [AutoTreeChop] Loading server plugin AutoTreeChop v1.7.0
+[05:20:08] [Server thread/INFO]: [FarmAssistReboot] Loading server plugin FarmAssistReboot v1.4.9.0
+[05:20:08] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
+[05:20:08] [Server thread/INFO]: [InvSee++] Loading server plugin InvSeePlusPlus v0.30.7
+[05:20:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:20:08] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.9
+[05:20:08] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.5.0
+[05:20:08] [Server thread/INFO]: [Clumps] Enabling Clumps v5.0
+[05:20:08] [Server thread/INFO]: [SuperEnchants] Enabling SuperEnchants v3.2.0.1
+[05:20:08] [Server thread/INFO]: [SuperEnchants] Loading SuperEnchants v3.2.0.1 by Aznos
+[05:20:08] [Server thread/INFO]: [SuperEnchants] -------------------------------------
+[05:20:08] [Server thread/INFO]: [SuperEnchants] If you'd like to support SuperEnchants and you find it useful, please consider donating at: https://buymeacoffee.com/aznos
+[05:20:08] [Server thread/INFO]: [SuperEnchants] -------------------------------------
+[05:20:08] [Server thread/WARN]: [SuperEnchants] Could not save lang_en.yml to plugins/SuperEnchants/lang_en.yml because lang_en.yml already exists.
+[05:20:08] [Server thread/WARN]: [SuperEnchants] Could not save lang_de.yml to plugins/SuperEnchants/lang_de.yml because lang_de.yml already exists.
+[05:20:08] [Server thread/WARN]: [SuperEnchants] Could not save lang_pt.yml to plugins/SuperEnchants/lang_pt.yml because lang_pt.yml already exists.
+[05:20:08] [Server thread/WARN]: [SuperEnchants] Could not save lang_es.yml to plugins/SuperEnchants/lang_es.yml because lang_es.yml already exists.
+[05:20:08] [Server thread/WARN]: [SuperEnchants] Could not save lang_fr.yml to plugins/SuperEnchants/lang_fr.yml because lang_fr.yml already exists.
+[05:20:08] [Server thread/WARN]: [SuperEnchants] Could not save lang_nl.yml to plugins/SuperEnchants/lang_nl.yml because lang_nl.yml already exists.
+[05:20:08] [Server thread/WARN]: [SuperEnchants] Could not save lang_ru.yml to plugins/SuperEnchants/lang_ru.yml because lang_ru.yml already exists.
+[05:20:08] [Server thread/WARN]: [SuperEnchants] Could not save lang_pirate.yml to plugins/SuperEnchants/lang_pirate.yml because lang_pirate.yml already exists.
+[05:20:08] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
+[05:20:09] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
+[05:20:09] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.7.
+[05:20:10] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[05:20:10] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[05:20:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:20:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:20:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:20:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:20:10] [Server thread/INFO]: Preparing level "world"
+[05:20:10] [Server thread/INFO]: -------- World Settings For [world] --------
+[05:20:10] [Server thread/INFO]: View Distance: 10
+[05:20:10] [Server thread/INFO]: Simulation Distance: 10
+[05:20:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[05:20:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[05:20:10] [Server thread/INFO]: Mob Spawn Range: 8
+[05:20:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:20:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[05:20:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:20:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:20:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:20:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[05:20:10] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
+[05:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[05:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[05:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[05:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[05:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[05:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
+[05:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
+[05:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[05:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[05:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[05:20:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[05:20:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[05:20:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[05:20:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[05:20:10] [Server thread/INFO]: Max TNT Explosions: 100
+[05:20:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[05:20:11] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[05:20:11] [Server thread/INFO]: View Distance: 10
+[05:20:11] [Server thread/INFO]: Simulation Distance: 10
+[05:20:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[05:20:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[05:20:11] [Server thread/INFO]: Mob Spawn Range: 8
+[05:20:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:20:11] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[05:20:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:20:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:20:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:20:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Potato Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[05:20:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[05:20:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[05:20:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[05:20:11] [Server thread/INFO]: Max TNT Explosions: 100
+[05:20:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[05:20:11] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[05:20:11] [Server thread/INFO]: View Distance: 10
+[05:20:11] [Server thread/INFO]: Simulation Distance: 10
+[05:20:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[05:20:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[05:20:11] [Server thread/INFO]: Mob Spawn Range: 8
+[05:20:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:20:11] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[05:20:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:20:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:20:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:20:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Potato Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
+[05:20:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[05:20:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[05:20:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[05:20:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[05:20:11] [Server thread/INFO]: Max TNT Explosions: 100
+[05:20:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[05:20:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:20:13] [Server thread/INFO]: Preparing spawn area: 0%
+[05:20:13] [Server thread/INFO]: Preparing spawn area: 0%
+[05:20:13] [Server thread/INFO]: Preparing spawn area: 0%
+[05:20:14] [Server thread/INFO]: Preparing spawn area: 0%
+[05:20:14] [Server thread/INFO]: Preparing spawn area: 0%
+[05:20:14] [Server thread/INFO]: Preparing spawn area: 0%
+[05:20:14] [Server thread/INFO]: Time elapsed: 2891 ms
+[05:20:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:20:14] [Server thread/INFO]: Preparing spawn area: 0%
+[05:20:15] [Server thread/INFO]: Preparing spawn area: 16%
+[05:20:15] [Server thread/INFO]: Time elapsed: 716 ms
+[05:20:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:20:15] [Server thread/INFO]: Preparing spawn area: 0%
+[05:20:15] [Server thread/INFO]: Time elapsed: 428 ms
+[05:20:15] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.2
+[05:20:15] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[05:20:16] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.2
+[05:20:16] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[05:20:16] [Server thread/INFO]: [HuskHomes] Enabling HuskHomes v4.9.9
+[05:20:17] [Server thread/INFO]: [HuskHomes] Registered 'on_enable' hooks
+[05:20:17] [Server thread/INFO]: [HuskHomes] Successfully enabled HuskHomes v4.9.9
+[05:20:17] [Server thread/INFO]: [ViaVersionStatus] Enabling ViaVersionStatus v4.00
+[05:20:17] [Server thread/INFO]: [ViaVersionStatus] Metrics enabled if allowed by plugins/bStats/config.yml
+[05:20:17] [Server thread/INFO]: [Timber] Enabling Timber v1.7.1
+[05:20:18] [Server thread/INFO]: [ClickMobs] Enabling ClickMobs v1.2.5
+[05:20:19] [Server thread/INFO]: [ClickMobs] Checking for updates...
+[05:20:19] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.4
+[05:20:19] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[05:20:19] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[05:20:19] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[05:20:19] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[05:20:19] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[05:20:19] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[05:20:19] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.4 (Premium: false)
+[05:20:19] [Server thread/INFO]: [MediaPlayer] Enabling MediaPlayer v1.0.3
+[05:20:19] [Server thread/INFO]: MediaPlayer is running on the latest supported minecraft version : org.bukkit.craftbukkit
+[05:20:20] [Server thread/INFO]: [StringDupBack] Enabling StringDupBack v1.0*
+[05:20:20] [Server thread/WARN]: [StringDupBack] Could not save config.yml to plugins/StringDupBack/resources/config.yml because config.yml already exists.
+[05:20:20] [Server thread/INFO]: [StringDupBack] §a[StringDupBack] Plugin enabled.
+[05:20:20] [Server thread/INFO]: [PatPatPlugin] Enabling PatPatPlugin v1.2.0+0057eaa
+[05:20:20] [Server thread/INFO]: [patpat-plugin] Plugin started
+[05:20:20] [Server thread/INFO]: [GSit] Enabling GSit v2.4.3
+[05:20:20] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[05:20:20] [Server thread/INFO]: [StringDupersReturn] Enabling StringDupersReturn v1.0.1
+[05:20:20] [Server thread/INFO]: [TAB] Enabling TAB v5.2.5
+[05:20:21] [Server thread/INFO]: [TAB] Enabled in 693ms
+[05:20:21] [Server thread/INFO]: [HuskHomesGUI] Enabling HuskHomesGUI v2.5.1
+[05:20:22] [Server thread/INFO]: [HuskHomesGUI] Successfully enabled HuskHomes v2.5.1
+[05:20:22] [Server thread/INFO]: [SetHome] Enabling SetHome v2.0.5
+[05:20:22] [Server thread/INFO]: [SetHome] SetHome GUI plugin enabled with dynamic command: /home
+[05:20:22] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.30.1
+[05:20:22] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.3-SNAPSHOT
+[05:20:24] [pool-33-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (1cc66c00dd0d091057d8a04adf1cc0714d8391ad)
+[05:20:25] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[05:20:26] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[05:20:26] [Server thread/INFO]: [AutoTreeChop] Enabling AutoTreeChop v1.7.0
+[05:20:27] [Server thread/WARN]: [AutoTreeChop] PlaceholderAPI not found. Placeholder expansion for AutoTreeChop will not work.
+[05:20:27] [Server thread/INFO]: [FarmAssistReboot] Enabling FarmAssistReboot v1.4.9.0
+[05:20:27] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[05:20:27] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel TC:console(1416309800869826572)
+[05:20:28] [Server thread/INFO]: [FarmAssistReboot] [ACF] Enabled Asynchronous Tab Completion Support!
+[05:20:28] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.30.7
+[05:20:29] [Server thread/INFO]: [spark] Starting background profiler...
+[05:20:30] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[05:20:30] [Server thread/INFO]: [Geyser-Spigot] 
+[05:20:30] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.3-b929 (git-master-d56cc11)
+[05:20:30] [Server thread/INFO]: [Geyser-Spigot] 
+[05:20:30] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[05:20:37] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[05:20:37] [Server thread/INFO]: [Geyser-Spigot] Done (7.074s)! Run /geyser help for help!
+[05:20:37] [Server thread/INFO]: Done preparing level "world" (27.057s)
+[05:20:37] [Server thread/INFO]: Running delayed init tasks
+[05:20:37] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[05:20:37] [Server thread/INFO]: [MediaPlayer]: Screens successfully registered. (0)
+[05:20:37] [Server thread/INFO]: [MediaPlayer]: Images successfully updated. (0)
+[05:20:37] [Craft Scheduler Thread - 9 - MediaPlayer/INFO]: [MediaPlayer]: Videos successfully registered. (0)
+[05:20:37] [Craft Scheduler Thread - 9 - MediaPlayer/INFO]: The list of saved videos has been refreshed.
+[05:20:37] [Server thread/INFO]: Done (73.621s)! For help, type "help"
+[05:20:38] [Server thread/WARN]: java.net.UnknownHostException: api.jeff-media.de
+[05:20:38] [Server thread/WARN]: 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567)
+[05:20:38] [Server thread/WARN]: 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+[05:20:38] [Server thread/WARN]: 	at java.base/java.net.Socket.connect(Socket.java:751)
+[05:20:38] [Server thread/WARN]: 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
+[05:20:38] [Server thread/WARN]: 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:178)
+[05:20:38] [Server thread/WARN]: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:531)
+[05:20:38] [Server thread/WARN]: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:636)
+[05:20:38] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+[05:20:38] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:377)
+[05:20:38] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
+[05:20:38] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1252)
+[05:20:38] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1138)
+[05:20:38] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
+[05:20:38] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1690)
+[05:20:38] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1614)
+[05:20:38] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
+[05:20:38] [Server thread/WARN]: 	at AngelChest-13.9.4.jar//de.jeff_media.angelchest.AngelChestMain$$TA.$$case(UpdateChecker.java:203)
+[05:20:38] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[05:20:38] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[05:20:38] [Server thread/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[05:20:38] [Server thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[05:20:38] [Server thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[05:20:38] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[05:20:38] [Server thread/WARN]: [AngelChest] Could not check for updates.
+[05:20:38] [Craft Scheduler Thread - 10 - FarmAssistReboot/INFO]: [FarmAssistReboot] You are running the latest version: 1.4.9.0
+[05:20:38] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 1/1 guilds (0 cancelled)
+[05:20:39] [Craft Scheduler Thread - 8 - MediaPlayer/INFO]: [MediaPlayer]: The new plugin version has been downloaded, and will be applied on the next server restart.
+[05:20:40] [Server thread/INFO]: [AngelChest] ========================================================
+[05:20:40] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[05:20:40] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[05:20:40] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[05:20:40] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[05:20:40] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[05:20:40] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[05:20:40] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[05:20:40] [Server thread/INFO]: [AngelChest] 
+[05:20:40] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[05:20:40] [Server thread/INFO]: [AngelChest] ========================================================
+[05:20:42] [Craft Scheduler Thread - 6 - HuskHomes/INFO]: [HuskHomes] Registered 'after_load' hooks
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] ViaVersion supported protocols:
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.7.2-1.7.5(4)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.7.6-1.7.10(5)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.8.x(47)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.9(107)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.9.1(108)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.9.2(109)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.9.3-1.9.4(110)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.10.x(210)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.11(315)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.11.1-1.11.2(316)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.12(335)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.12.1(338)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.12.2(340)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.13(393)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.13.1(401)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.13.2(404)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.14(477)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.14.1(480)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.14.2(485)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.14.3(490)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.14.4(498)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.15(573)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.15.1(575)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.15.2(578)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.16(735)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.16.1(736)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.16.2(751)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.16.3(753)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.16.4-1.16.5(754)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.17(755)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.17.1(756)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.18-1.18.1(757)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.18.2(758)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.19(759)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.19.1-1.19.2(760)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.19.3(761)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.19.4(762)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.20-1.20.1(763)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.20.2(764)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.20.3-1.20.4(765)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.20.5-1.20.6(766)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.21-1.21.1(767)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.21.2-1.21.3(768)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.21.4(769)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.21.5(770)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.21.6(771)
+[05:20:42] [Server thread/INFO]: [ViaVersionStatus] 1.21.7-1.21.8(772)
+[05:23:13] [Server thread/INFO]: [Not Secure] [Server] hi
+[05:25:05] [User Authenticator #0/INFO]: UUID of player kyuu93201 is b2daeaba-0057-37e3-9540-17b70ad1be8d
+[05:25:05] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, DiscordSRV]
+[05:25:12] [TAB Processing Thread/INFO]: [TAB] [WARN] Player kyuu93201's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:25:13] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:25:13] [Server thread/INFO]: kyuu93201 joined the game
+[05:25:13] [Server thread/INFO]: kyuu93201[/127.118.132.35:49589] logged in with entity id 26 at ([world]-23.668756845931313, 89.0, -75.21583116836695)
+[05:25:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[05:30:33] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-1 - Starting...
+[05:30:33] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.pool.HikariPool] HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@7f8dfff0
+[05:30:33] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[05:32:10] [Server thread/INFO]: [kyuu93201: Set own game mode to Creative Mode]
+[05:32:22] [Server thread/INFO]: [kyuu93201: Set own game mode to Survival Mode]
+[05:34:22] [Server thread/INFO]: kyuu93201 has made the advancement [A Seedy Place]
+[05:35:44] [User Authenticator #1/INFO]: UUID of player Kandy_Minecraft is a409d161-ff6d-38e5-85b4-3e450ad4c5fd
+[05:35:48] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Kandy_Minecraft's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:35:48] [Server thread/INFO]: [ViaVersionStatus] Kandy_Minecraft is using version 1.21-1.21.1(767).
+[05:35:48] [Server thread/INFO]: Kandy_Minecraft joined the game
+[05:35:48] [Server thread/INFO]: Kandy_Minecraft[/127.149.18.100:33151] logged in with entity id 1282 at ([world]-9.41252550223138, 118.0, -83.9832674665974)
+[05:35:52] [Async Chat Thread - #2/INFO]: [Not Secure] <kyuu93201> lo
+[05:36:00] [Async Chat Thread - #2/INFO]: [Not Secure] <Kandy_Minecraft> ha '
+[05:36:06] [Server thread/INFO]: kyuu93201 issued server command: /tpa Kandy_Minecraft
+[05:36:09] [Server thread/INFO]: Kandy_Minecraft issued server command: /huskhomes:tpaccept kyuu93201
+[05:36:12] [Async Chat Thread - #2/INFO]: [Not Secure] <kyuu93201> lmao
+[05:36:22] [Async Chat Thread - #2/INFO]: [Not Secure] <kyuu93201> nhat dc dan kang len day
+[05:36:27] [Async Chat Thread - #2/INFO]: [Not Secure] <kyuu93201> nhin ne
+[05:36:50] [Async Chat Thread - #2/INFO]: [Not Secure] <Kandy_Minecraft> cai pat pat k nhat dc :)
+[05:36:57] [Async Chat Thread - #2/INFO]: [Not Secure] <kyuu93201> xoa di
+[05:37:04] [Server thread/INFO]: Kandy_Minecraft has made the advancement [Stone Age]
+[05:38:02] [Async Chat Thread - #4/INFO]: [Not Secure] <Kandy_Minecraft> NÀY OG XÂYY A
+[05:38:04] [Async Chat Thread - #4/INFO]: [Not Secure] <kyuu93201> ye
+[05:38:16] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-2 - Starting...
+[05:38:16] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.pool.HikariPool] HikariPool-2 - Added connection org.sqlite.jdbc4.JDBC4Connection@350be8ea
+[05:38:16] [Server thread/INFO]: [org.milkteamc.autotreechop.libs.hikari.HikariDataSource] HikariPool-2 - Start completed.
+[05:38:21] [Async Chat Thread - #3/INFO]: [Not Secure] <kyuu93201> chat cay nhanh ma
+[05:38:34] [Async Chat Thread - #4/INFO]: [Not Secure] <Kandy_Minecraft> UA WTF
+[05:38:38] [Async Chat Thread - #4/INFO]: [Not Secure] <kyuu93201> ?
+[05:38:47] [Async Chat Thread - #4/INFO]: [Not Secure] <kyuu93201> ko cho
+[05:39:14] [Server thread/INFO]: Kandy_Minecraft has made the advancement [Getting an Upgrade]
+[05:39:17] [Async Chat Thread - #4/INFO]: [Not Secure] <kyuu93201> lm farm sat ko
+[05:39:46] [Server thread/INFO]: Kandy_Minecraft has made the advancement [Monster Hunter]
+[05:40:17] [Server thread/INFO]: Villager Villager['Villager'/100, uuid='eebf092d-513b-466e-badc-3e672e9a2f56', l='ServerLevel[world]', x=33.56, y=63.00, z=-84.32, cpos=[2, -6], tl=18000, v=true] died, message: 'Villager froze to death'
+[05:40:36] [Async Chat Thread - #6/INFO]: [Not Secure] <kyuu93201> du
+[05:40:44] [Async Chat Thread - #6/INFO]: [Not Secure] <Kandy_Minecraft> HA
+[05:40:54] [Async Chat Thread - #6/INFO]: [Not Secure] <kyuu93201> ko bt la no o day
+[05:42:10] [Server thread/INFO]: kyuu93201 has made the advancement [Hot Stuff]
+[05:43:57] [Server thread/INFO]: Kandy_Minecraft has made the advancement [Acquire Hardware]
+[05:44:10] [Server thread/INFO]: kyuu93201 issued server command: /tpa Kandy_Minecraft
+[05:44:34] [Server thread/INFO]: Kandy_Minecraft issued server command: /huskhomes:tpaccept kyuu93201
+[05:44:44] [Server thread/INFO]: Kandy_Minecraft fell from a high place
+[05:44:48] [Server thread/INFO]: Kandy_Minecraft issued server command: /huskhomes:back
+[05:44:49] [Async Chat Thread - #7/INFO]: [Not Secure] <kyuu93201> lmao
+[05:45:26] [Server thread/INFO]: kyuu93201 fell from a high place
+[05:45:31] [Server thread/INFO]: kyuu93201 issued server command: /actp 1
+[05:45:34] [Async Chat Thread - #9/INFO]: [Not Secure] <Kandy_Minecraft> LMAO X2 :))
+[05:45:39] [Async Chat Thread - #8/INFO]: [Not Secure] <kyuu93201> hehe
+[05:46:50] [Server thread/INFO]: kyuu93201 fell from a high place
+[05:46:54] [Server thread/INFO]: kyuu93201 issued server command: /huskhomes:back
+[05:47:05] [Server thread/INFO]: Kandy_Minecraft tried to swim in lava
+[05:47:11] [Server thread/INFO]: Kandy_Minecraft issued server command: /huskhomes:back
+[05:48:13] [Async Chat Thread - #10/INFO]: [Not Secure] <kyuu93201> kc
+[05:48:26] [Async Chat Thread - #10/INFO]: [Not Secure] <kyuu93201> adu warden
+[05:48:39] [Async Chat Thread - #10/INFO]: [Not Secure] <Kandy_Minecraft> ua
+[05:48:43] [Async Chat Thread - #10/INFO]: [Not Secure] <Kandy_Minecraft> sao mat het than r
+[05:48:50] [Async Chat Thread - #10/INFO]: [Not Secure] <kyuu93201> vua nung o tren
+[05:49:36] [Server thread/INFO]: kyuu93201 has made the advancement [Isn't It Iron Pick]
+[05:49:44] [Server thread/INFO]: kyuu93201 has made the advancement [Diamonds!]
+[05:49:50] [Async Chat Thread - #11/INFO]: [Not Secure] <Kandy_Minecraft> UA
+[05:49:55] [Async Chat Thread - #11/INFO]: [Not Secure] <kyuu93201> sao
+[05:49:58] [Async Chat Thread - #11/INFO]: [Not Secure] <Kandy_Minecraft> K VEIN DC CAI NAY A
+[05:50:02] [Async Chat Thread - #11/INFO]: [Not Secure] <kyuu93201> ko
+[05:50:04] [Server thread/INFO]: Kandy_Minecraft has made the advancement [Sneak 100]
+[05:50:37] [Server thread/INFO]: Kandy_Minecraft has made the advancement [Isn't It Iron Pick]
+[05:51:01] [Server thread/INFO]: Kandy_Minecraft was shot by Skeleton
+[05:51:05] [Server thread/INFO]: Kandy_Minecraft issued server command: /huskhomes:back
+[05:51:09] [Server thread/INFO]: kyuu93201 was shot by Skeleton
+[05:51:13] [Server thread/INFO]: kyuu93201 issued server command: /huskhomes:back
+[05:51:33] [Server thread/INFO]: Kandy_Minecraft was shot by Skeleton
+[05:51:35] [Server thread/INFO]: Kandy_Minecraft issued server command: /huskhomes:back
+[05:51:42] [Server thread/INFO]: kyuu93201 was shot by Skeleton
+[05:51:44] [Server thread/INFO]: kyuu93201 issued server command: /huskhomes:back
+[05:52:00] [Async Chat Thread - #13/INFO]: [Not Secure] <Kandy_Minecraft> OFF DAY :))
+[05:52:03] [Async Chat Thread - #13/INFO]: [Not Secure] <kyuu93201> bruhh
+[05:52:08] [Async Chat Thread - #13/INFO]: [Not Secure] <Kandy_Minecraft> qua bn chs lq r
+[05:52:16] [Async Chat Thread - #13/INFO]: [Not Secure] <Kandy_Minecraft> bi bat di :))
+[05:52:21] [Async Chat Thread - #12/INFO]: [Not Secure] <kyuu93201> dua dan lang day
+[05:52:28] [Server thread/INFO]: Kandy_Minecraft lost connection: Disconnected
+[05:52:28] [Server thread/INFO]: Kandy_Minecraft left the game
+[05:52:29] [Async Chat Thread - #12/INFO]: [Not Secure] <kyuu93201> ok
+[05:52:37] [Server thread/INFO]: kyuu93201 issued server command: /home
+[05:53:45] [Server thread/INFO]: kyuu93201 lost connection: Disconnected
+[05:53:45] [Server thread/INFO]: kyuu93201 left the game
+[10:04:55] [Server thread/INFO]: Stopping the server
+[10:04:55] [Server thread/INFO]: Stopping server
+[10:04:55] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.30.7
+[10:04:55] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.10
+[10:04:55] [Server thread/INFO]: [FarmAssistReboot] Disabling FarmAssistReboot v1.4.9.0
+[10:04:55] [Server thread/INFO]: [AutoTreeChop] Disabling AutoTreeChop v1.7.0
+[10:04:55] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.3-SNAPSHOT
+[10:04:55] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[10:04:55] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[10:04:55] [Server thread/INFO]: [SuperEnchants] Disabling SuperEnchants v3.2.0.1
+[10:04:55] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.30.1
+[10:04:56] [WebSocketConnectReadThread-162/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[10:04:56] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Shutdown completed in 1017ms
+[10:04:56] [Server thread/INFO]: [SetHome] Disabling SetHome v2.0.5
+[10:04:56] [Server thread/INFO]: [SetHome GUI] Saving your home...
+[10:04:56] [Server thread/INFO]: [SetHome GUI] Saving config.
+[10:04:56] [Server thread/INFO]: [HuskHomesGUI] Disabling HuskHomesGUI v2.5.1
+[10:04:56] [Server thread/INFO]: [TAB] Disabling TAB v5.2.5
+[10:04:56] [Server thread/INFO]: [TAB] Disabled in 3ms
+[10:04:56] [Server thread/INFO]: [Clumps] Disabling Clumps v5.0
+[10:04:56] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.5.0
+[10:04:56] [Server thread/INFO]: [StringDupersReturn] Disabling StringDupersReturn v1.0.1
+[10:04:56] [Server thread/INFO]: [GSit] Disabling GSit v2.4.3
+[10:04:56] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[10:04:56] [Server thread/INFO]: [PatPatPlugin] Disabling PatPatPlugin v1.2.0+0057eaa
+[10:04:56] [Server thread/INFO]: [StringDupBack] Disabling StringDupBack v1.0
+[10:04:56] [Server thread/INFO]: [StringDupBack] §c[StringDupBack] Plugin disabled.
+[10:04:56] [Server thread/INFO]: [MediaPlayer] Disabling MediaPlayer v1.0.3
+[10:04:56] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.4
+[10:04:56] [Server thread/INFO]: [ClickMobs] Disabling ClickMobs v1.2.5
+[10:04:56] [Server thread/INFO]: [Timber] Disabling Timber v1.7.1
+[10:04:56] [Server thread/INFO]: [ViaVersionStatus] Disabling ViaVersionStatus v4.00
+[10:04:56] [Server thread/INFO]: [HuskHomes] Disabling HuskHomes v4.9.9
+[10:04:56] [Server thread/INFO]: [HuskHomes] Disabling HuskHomes v4.9.9...
+[10:04:56] [Server thread/INFO]: [HuskHomes] Successfully disabled HuskHomes v4.9.9
+[10:04:56] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[10:04:56] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.9
+[10:04:56] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.2
+[10:04:56] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.2
+[10:04:56] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[10:04:56] [Server thread/INFO]: Saving players
+[10:04:57] [Server thread/INFO]: Saving worlds
+[10:04:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:04:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[10:04:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[10:04:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[10:04:57] [Server thread/INFO]: [ChunkHolderManager] Saved 12 block chunks, 113 entity chunks, 0 poi chunks in world 'world' in 0.16s
+[10:04:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[10:04:57] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[10:04:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[10:04:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[10:04:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[10:04:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[10:04:57] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[10:04:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[10:04:57] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[10:04:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[10:04:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[10:04:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[10:04:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[10:04:57] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[10:04:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[10:04:57] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[10:04:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:04:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:04:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:04:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:04:57] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[10:04:57] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[10:04:57] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[10:04:57] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

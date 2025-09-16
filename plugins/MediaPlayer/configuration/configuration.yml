@@ -1,0 +1,24 @@
+plugin:
+  auto-update: true
+  auto-update-libraries: true
+  force-permissions: true
+  external-communication: true
+  packet-compression: true
+  alternative-server: none
+  system: LINUX
+  langage: GB
+  ping-sound: true
+  verify-files-on-load: true
+  delete-frames-on-loaded: false
+  delete-video-on-loaded: false
+  save-streams: false
+  screen-block: BARRIER
+  visible-screen-frames-support: false
+  glowing-screen-frames-support: false
+  maximum-distance-to-receive: 10
+  maximum-playing-videos: 5
+  maximum-loading-videos: 1
+  remove-screen-structure-on-restart: false
+  remove-screen-structure-on-end: false
+  detect-duplicated-frames: false
+  ressemblance-to-skip: 100
